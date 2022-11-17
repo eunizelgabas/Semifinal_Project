@@ -4,7 +4,7 @@
 <h1>Confirm Delete Investor</h1>
 <hr>
 
-<div class="card w-50">
+<div class="card w-50 mx-auto">
     <div class="card-header" style="background-color: #BA94D1">
       Delete Investor
     </div>
